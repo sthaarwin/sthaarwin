@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arwin shrestha</h1>
 <h3 align="center">A dreamer in search of infinity.</h3>
 
-- 🔭 I’m currently working on [TUI-Banking system](https://github.com/shri-acha/TUI-BankingSystem)
+- 🔭 I’m currently working on [Mobile Banking System](https://github.com/shri-acha/BankingSystem)
 
 - 🌱 I’m currently learning **Flutter**
 
