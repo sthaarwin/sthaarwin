@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Axol (A Game Engine)<br>👯 I’m looking to collaborate on C++ projects<br>🤝 I’m looking for help with Compiler design.<br>🌱 I’m currently learning Assembly x86.<br>💬 Ask me about nothing lol.<br>⚡ Fun fact  I have no life.
+🔭 I’m currently working on Axol ( A Game Engine ).<br>👯 I’m looking to collaborate on C++ projects.<br>🤝 I’m looking for help with Compiler design.<br>🌱 I’m currently learning Assembly x86.<br>💬 Ask me about nothing lol.<br>⚡ Fun fact  I have no life.
 
 
 ## 🌐 Socials:
