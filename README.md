@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Arwin Shrestha</h1>
 <h3 align="center">A Dreamer in search of infinity.</h3>
-🔭 I’m currently working on AxScript ( A Self-Made Programming Language ).<br>👯 I’m looking to collaborate on C++ projects.<br>🤝 I’m looking for help with Compiler design.<br>🌱 I’m currently learning Assembly x86.<br>💬 Ask me about nothing lol.<br>⚡ Fun fact  I have no life.<br> 🔗 <a href="https://theaxzyte.netlify.app/">The Axzyte</a>
+🔭 I’m currently working on <a href="https://github.com/sthaarwin/AxScript">AxScript</a>.<br>👯 I’m looking to collaborate on C++ projects.<br>🤝 I’m looking for help with Compiler design.<br>🌱 I’m currently learning Assembly x86.<br>💬 Ask me about nothing lol.<br>⚡ Fun fact  I have no life.<br> 🔗 <a href="https://theaxzyte.netlify.app/">The Axzyte</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/axzyte.005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meetarisu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@theycallmearwin) 
