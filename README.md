@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Arwin Shrestha</h1>
 <h3 align="center">A Dreamer in search of infinity.</h3>
-🔭 I’m currently working on <a href="https://github.com/sthaarwin/axtone">AxTone</a><br>👯 I’m looking to collaborate on AI/ML projects<br>⚡ Fun fact I have no life.
+🔭 I’m currently working on <a href="https://github.com/nischal0x01/pulseAI">PulseAI</a><br>👯 I’m looking to collaborate on AI/ML projects<br>⚡ Fun fact I have no life.
 
 
 ## 🌐 Socials:
